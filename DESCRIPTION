@@ -1,0 +1,11 @@
+Package: HelloWorldTen
+Type: Package
+Title: Package for test project
+Version: 0.0.1
+Author: H.Tatsumoto
+Maintainer: H.Tatsumoto <hirofumi.tatsumoto@gmail.com>
+Description: このパッケージはパッケージ作成の説明のためのパッケージです。
+    トイプロジェクトです。
+License: MIT
+Encoding: UTF-8
+LazyData: true
